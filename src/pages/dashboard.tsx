@@ -1,8 +1,8 @@
 import React from 'react';
 import LeftNavigation from '@/components/leftNavigation/leftNavigation';
 import { Box } from '@mui/material';
-import DashboardOverviewComponent from '@/components/overview/DashboardOverviewComponent';
-import DashBoardCommonHeader from '@/components/header/DashBoardCommonHeader';
+import DashboardOverviewComponent from '@/components/Overview/DashboardOverviewComponent';
+import DashBoardCommonHeader from '@/components/Header/DashBoardCommonHeader';
 
 const Dashboard: React.FC = () => {
     return (
